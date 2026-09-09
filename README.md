@@ -117,18 +117,18 @@ The dataset used in this project contains information about Netflix movies and T
 
 | Column | Description |
 |---|---|
-| `show_id` | Unique ID assigned to each title |
-| `type` | Type of content: Movie or TV Show |
-| `title` | Name of the movie or TV show |
-| `director` | Director of the content |
-| `cast` | Main cast members |
-| `country` | Country where the content was produced |
-| `date_added` | Date when the content was added to Netflix |
-| `release_year` | Original release year of the content |
-| `rating` | Content rating |
-| `duration` | Movie duration or number of seasons |
-| `listed_in` | Genre or category of the content |
-| `description` | Short description of the content |
+| `Show_Id` | Unique ID assigned to each title |
+| `Content Type` | Type of content: Movie or TV Show |
+| `Title` | Name of the movie or TV show |
+| `Director` | Director of the content |
+| `Cast` | Main cast members |
+| `Production Country` | Country where the content was produced |
+| `Date Added` | Date when the content was added to Netflix |
+| `Release Date` | Original release year of the content |
+| `Rating` | Content rating |
+| `Duration` | Movie duration or number of seasons |
+| `Genres` | Genre or category of the content |
+| `Description` | Short description of the content |
 
 ### Dataset File
 
