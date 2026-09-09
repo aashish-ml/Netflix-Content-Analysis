@@ -117,7 +117,7 @@ The dataset used in this project contains information about Netflix movies and T
 
 | Column | Description |
 |---|---|
-| `Show_Id` | Unique ID assigned to each title |
+| `Show Id` | Unique ID assigned to each title |
 | `Content Type` | Type of content: Movie or TV Show |
 | `Title` | Name of the movie or TV show |
 | `Director` | Director of the content |
