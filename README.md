@@ -43,6 +43,8 @@ Netflix-Content-Analysis/
 ├── README.md
 └── .gitignore
 
+---
+
 ## 📊 Analysis Performed
 
 The project performs Exploratory Data Analysis (EDA) on Netflix movies and TV shows.
