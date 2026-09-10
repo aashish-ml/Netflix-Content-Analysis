@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Analysis
+## 🎬 Netflix Content Analysis
 
 ## 📌 Project Overview
 
